@@ -1,0 +1,14 @@
+com\rabbitmq\RabbitMQConfiguration.class
+com\SpringBootStart.class
+com\rest\springboot\event\service\EventService.class
+com\rest\springboot\exceptions\ServiceResourceNotCreatedOrUpdatedException.class
+com\rest\springboot\utils\ServiceUtil.class
+com\rest\springboot\event\repositories\IEventServiceRepository.class
+com\caching\CachingConfig.class
+com\rest\springboot\event\models\EventIdentity.class
+com\rest\springboot\event\controller\EventServiceController.class
+com\swagger\SwaggerConfig.class
+com\rest\springboot\event\models\EventModel.class
+com\rest\springboot\event\repositories\IEventRepository.class
+com\rest\springboot\exceptions\ServiceResourceNotFoundException.class
+com\rabbitmq\RabbitMQConsumer.class
