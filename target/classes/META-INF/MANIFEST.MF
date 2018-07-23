@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Implementation-Title: EmployeeService
+Implementation-Version: 2.0.0.RELEASE
+Built-By: nilay
+Implementation-Vendor-Id: com.rest.springboot.employee
+Build-Jdk: 1.8.0_162
+Implementation-URL: http://maven.apache.org
+Created-By: Maven Integration for Eclipse
+
