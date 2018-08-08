@@ -3,7 +3,7 @@ Spring Boot
 
 ### project using springboot, mysql, hibernate JPA, RabbitMQ
 
-#### install RabbitMQ client and server (if already installed in specific server then need to configure IP in application.properties file, available inside folder structure src/main/resources otherwise local)
+#### install RabbitMQ client and server (if already installed on specific server then need to configure IP in application.properties file, available inside folder structure src/main/resources otherwise local)
 
 #### Create database restservices in mysql db. At the moment hibernate is set to create mode.
 
